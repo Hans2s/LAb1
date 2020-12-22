@@ -5,7 +5,8 @@ b = -3.12
 c = 5.45
 d = 2.0
 
-e = (2 * asin(a))
+o = asin(a) 
+e = (2 * o)
 f = b * sqrt(c)
 z = acos(f)
 

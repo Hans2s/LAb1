@@ -8,7 +8,7 @@ d = 2.0
 o = math.sin(a) 
 e = (2 * o)
 f = b * math.sqrt(c)
-z = acos(f)
+z = math.cos(f)
 
 y = e + pow(z,2)
 

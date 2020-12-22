@@ -9,4 +9,6 @@ e = (2 * asin(a))
 f = b * sqrt(c)
 z = acos(f)
 
-y = e + z
+y = e + pow(z,2)
+
+print (y)
